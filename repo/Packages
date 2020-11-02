@@ -1,0 +1,14 @@
+Package: com.puffindev.nodock
+Version: 1.0.0
+Section: Tweaks
+Maintainer: PuffinDev <puffin.develop@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: Files/nodock/com.puffindev.nodock_1.0.0_iphoneos-arm.deb
+Size: 6040
+Installed-Size: 40
+MD5sum: ced0d3a70d452b19db8d6860b14ddf39
+Description: Hide the dock.
+Name: NoDock
+Author: PuffinDev <puffin.develop@gmail.com>
+Depiction: http://h6nry.github.io/repo/Files/nodock/index.html
