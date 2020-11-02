@@ -6,7 +6,7 @@ I am currently working on Naporia - an open world RPG. You can check it out here
 
 Aside from programming, I am also a keen flight sim & electronics enthusiast.
 
-[button url="http://www.google.com"]
+
 
 
 ### Check out my cydia repo for ios tweaks
