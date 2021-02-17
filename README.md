@@ -10,15 +10,6 @@ Aside from programming, I am also a keen flight sim & electronics enthusiast.
 
 
 
-
-### Check out my cydia repo for ios tweaks
-
-[PuffinDev's Repo](https://puffindev.github.io/repo/index.html)
-
-
-
-
-
 ## Social links:
 
 [Youtube](https://www.youtube.com/channel/UCZXpvhJqJjFLrQztQnn5nlQ/)
